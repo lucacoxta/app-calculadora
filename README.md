@@ -1,10 +1,21 @@
-Atividade 3 - Programa Calculadora na WEB
+# Atividade 3 - Programa Calculadora na WEB 
 
-Programa Calculadora:
+Este projeto é uma **Calculadora Web Responsiva**, desenvolvida utilizando **Flutter** no **IDX**, como parte da atividade proposta no curso da Talent Tech.  
 
-Nessa atividade é apresentado o passo-a-passo para criar um programa que mostra os comandos para gerenciar entrada e saída de dados, bem como as estruturas de dados necessárias para criação de procedimentos de gerenciamento e processamento dos dados necessários para criação de uma calculadora.
+## Funcionalidades  
+- Interface moderna e responsiva.  
+- Operações matemáticas básicas:  
+  - Adição  
+  - Subtração  
+  - Multiplicação  
+  - Divisão  
+- Feedback visual dinâmico para entradas e resultados.  
 
-ATIVIDADE:
-A atividade “Programa Calculadora na WEB” deverá ser realizada através da criação de um aplicativo WEB simples, que crie uma Calculadora em um layout responsivo, e sua publicação no Github.io, depois de criada e hospedada o aplicativo, o aluno deverá disponibilizar o link de acesso para este aplicativo, bem como o repositório onde o mesmo está armazenado. 
+## Tecnologias Utilizadas  
+- **Flutter**: Framework para desenvolvimento multiplataforma.  
+- **Dart**: Linguagem de programação utilizada no Flutter.  
+- **IDX**: Plataforma para desenvolvimento e deploy de projetos Flutter.  
 
-link da calculadora:https://lucacoxta.github.io/alunotalentotech./app-calculadora/
+## Link do Aplicativo  
+Acesse o aplicativo diretamente através do link:  
+[Calculadora Web](https://lucacoxta.github.io/alunotalentotech./app-calculadora/)  
